@@ -6,3 +6,6 @@ Create a new workspace
 
 truffle deploy
 
+npm install ethereumjs-util
+
+npm install web3
